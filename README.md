@@ -1,2 +1,0 @@
-# cryptoring
-Cryptocurrency monitoring app
