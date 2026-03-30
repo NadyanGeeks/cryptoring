@@ -4,7 +4,7 @@ import Link from "next/link";
 import React from "react";
 import Image from "next/image";
 import { usePathname } from "next/navigation";
-import { cn } from "@/src/lib/utils";
+import { cn } from "@/lib/utils";
 
 const Header = () => {
   const pathname = usePathname();
